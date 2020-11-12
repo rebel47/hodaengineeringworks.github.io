@@ -1,0 +1,11 @@
+.setImage{
+    width: 100vw;
+}
+
+  /* code for Mobile devices */
+@media(max-width: 600px){
+    .setImage{
+        width: 100vw;
+        height: 60vw;
+    }
+}
